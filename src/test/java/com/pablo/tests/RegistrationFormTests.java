@@ -10,7 +10,7 @@ import java.time.LocalDate;
 import static io.qameta.allure.Allure.step;
 import static java.lang.String.format;
 
-@Tag("properties")
+@Tag("homework")
 public class RegistrationFormTests extends TestBase {
 
     Generator gen = new Generator();
