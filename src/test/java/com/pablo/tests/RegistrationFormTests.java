@@ -44,7 +44,7 @@ public class RegistrationFormTests extends TestBase {
             registrationFormPage
                     .setFirstName(name)
                     .setLastName(lastName)
-                    .setEmail(email)
+                    .setEmail(mail)
                     .setBirthDate(date)
                     .setGender(gender)
                     .setPhoneNumber(mobile)
