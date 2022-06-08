@@ -27,7 +27,7 @@ public class RegistrationFormPage {
     SelenideElement tableOutput = $(".table-responsive");
     SelenideElement dateOfBirth = $("#dateOfBirthInput");
     SelenideElement subjectInput = $("#subjectsInput");
-    SelenideElement hobbyInput = $("#hobbiesWrappe");
+    SelenideElement hobbyInput = $("#hobbiesWrapper");
     SelenideElement pictureInsert = $("#uploadPicture");
     SelenideElement addressInput = $("#currentAddress");
 
